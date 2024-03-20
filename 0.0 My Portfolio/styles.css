@@ -1,0 +1,29 @@
+body {
+    background-color: #264653;
+}
+h1 {
+    color: #e9c46a;
+}
+img {
+    height: 200px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+h2 {
+    color: #e76f51;
+}
+
+p {
+    color: #f4a261;
+}
+
+ul {
+    color: #f4a261;
+}
+h3 {
+    color: #f7e1d7;
+}
+a {
+    color: yellow;
+}
