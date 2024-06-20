@@ -1,0 +1,17 @@
+{
+  "name": "learning_npm",
+  "version": "1.0.0",
+  "description": "i m learning npm",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suman",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "superhero-name-library": "^1.2.2",
+    "superheroes": "^4.0.0"
+  }
+}
